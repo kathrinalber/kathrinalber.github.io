@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Kathrin Alber"
-  avatar           : "profile.png"
+  avatar           : #"profile.png"
   bio              : "Atmospheric science PhD candidate at University at Albany"
   location         : "Albany, NY"
   employer         :

@@ -1,15 +1,11 @@
 ---
-title: "Paper Title Number 2"
+title: "A shift in the diurnal timing and intensity of deep convection over the Congo Basin during the past 40 years"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/2021-09-25-paper-title-number-2
+excerpt: 'This paper investigates changes in the diurnal cycle of deep convection over the Congo Basin.'
+date: 22021-09-25
+venue: 'Atmospheric Research'
+paperurl: 'https://doi.org/10.1016/j.atmosres.2021.105869'
+citation: 'Alber, K., Zhou, L., and Raghavendra, A. A shift in the diurnal timing and intensity of deep convection over the Congo Basin during the past 40 years. Atmos Res (2021). <i> Atmospheric Research </i>, 264, 0169-8095.'
 ---
-This paper is about the number 2. The number 3 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
-
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+This paper investigates changes in the diurnal cycle of deep convection over the Congo Basin. 

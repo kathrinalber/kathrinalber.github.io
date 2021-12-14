@@ -1,6 +1,6 @@
 ---
-title: "2.4	Modeling drought impacts on the diurnal cycle of convection with WRF"
-excerpt: "In this project I am investigating how the long-term and large-scale drying trend observed over the region is impacting the diurnal cycle of deep convection by using the Weather Research and Forecasting (ARW-WRF) model"
+title: "Modeling drought impacts on the diurnal cycle of convection with WRF"
+excerpt: "In this project I am investigating how the long-term and large-scale drying trend observed over the Congo Rainforest is impacting the diurnal cycle of deep convection by using the Weather Research and Forecasting (ARW-WRF) model."
 collection: portfolio
 ---
 

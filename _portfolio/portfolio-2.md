@@ -12,3 +12,13 @@ To do so, I analyzed the causes and effects of a shift in the diurnal timing and
 which is mainly controlled by surface heating, one important question is whether the long-term drying trend may has modified the diurnal cycle of clouds and deep convection over the Congo. 
 Identifying the diurnal changes in clouds and deep convection over the region promises to enhance our understanding of rainfall patterns and variability as well as associated thunderstorm activity and may thereby help to reconcile the observed inverse trends in deep convection and rainfall. 
 The goals of this study therefore are to analyze the diurnal cycle of deep convection over the Congo, to investigate its changes from 1979 to 2019, and to ultimately link the changes found in the diurnal cycle of deep convection to the observed decrease in precipitation.
+
+Project Status
+====
+
+This work is finished and published.
+
+Publication
+====
+
+[Alber, K., Zhou, L., and Raghavendra, A., (2021). A shift in the diurnal timing and intensity of deep convection over the Congo Basin during the past 40 years. Atmos. Res., 264, 0169-8095.] (https://kathrinalber.github.io/publication/2021-09-25-paper-title-number-2)

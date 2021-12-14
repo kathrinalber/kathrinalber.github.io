@@ -13,4 +13,4 @@ This project aims to shed light on the yet unanswered questions of how the MJO, 
 Project Status
 ====
 
-This work is currently in progress.
+This work is currently in progress (2021-).

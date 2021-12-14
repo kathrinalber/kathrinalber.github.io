@@ -8,7 +8,7 @@ collection: portfolio
 Motivation
 ====
 
-This project aims to shed light on the yet unanswered questions of how the MJO, ENSO and IOD may impact the diurnal cycle of convection over the Congo. This will provide useful infor-mation about possible causes of changes of the diurnal cycle of convection and may thereby en-hance the current and limited understanding about the variability of rainfall and convection over the region. This work might also help to answer open questions about what mechanisms control varia-bility in rainfall and convection over the region, as well as about potential driving factors of the ob-served drying trend. 
+This project aims to shed light on the yet unanswered questions of how the MJO, ENSO and IOD may impact the diurnal cycle of convection over the Congo. This will provide useful information about possible causes of changes of the diurnal cycle of convection and may thereby enhance the current and limited understanding about the variability of rainfall and convection over the region. This work might also help to answer open questions about what mechanisms control variability in rainfall and convection over the region, as well as about potential driving factors of the observed drying trend. 
 
 Project Status
 ====

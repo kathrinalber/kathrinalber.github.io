@@ -21,4 +21,4 @@ This work is finished and published.
 Publication
 ====
 
-[Alber, K., Zhou, L., and Raghavendra, A., (2021). A shift in the diurnal timing and intensity of deep convection over the Congo Basin during the past 40 years. Atmos. Res., 264, 0169-8095.] (https://kathrinalber.github.io/publication/2021-09-25-paper-title-number-2)
+[Alber, K., Zhou, L., and Raghavendra, A., (2021). A shift in the diurnal timing and intensity of deep convection over the Congo Basin during the past 40 years. Atmos. Res., 264, 0169-8095.](https://kathrinalber.github.io/publication/2021-09-25-paper-title-number-2)

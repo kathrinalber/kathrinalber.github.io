@@ -12,6 +12,6 @@ I am a PhD candidate in the [Department of Atmospheric and Environmental Science
 
 My research is focused on understanding changes in deep convection over the Congo Basin, the second largest rainforest on Earth. I am interested in long-term trends of deep convection, changes in the diurnal timing, and the impacts of different variables like modes of variability and the long-term drying trend.
 
-I grew up in Switzerland and received my B.S. and M.S. in Geoscience with a focus on Climatology and Geography from the University of Basel, Switzerland. I was a visiting student at George Mason University in Fairfax, Virginia, where I completed my Master's thesis under the advisement of Dr. Kathy Pegion.
+I grew up in Switzerland and received my B.S. and M.S. in Geoscience with a focus on Climatology and Geography from the University of Basel, Switzerland. I was a visiting student at George Mason University in Fairfax, Virginia, where I completed my Master's thesis titeled Prediction and Predictability of the North Atlantic Oscillation under the advisement of Dr. Kathy Pegion.
 
 In my free time, I like to spend time outdoors, rock and ice climbing, backcountry skiing, hiking, cycling, and gardening. I am a board member of the Thacher Climbing Coalition and have led climbing trips for children with the Swiss Alpine Club for several years before moving to the U.S.

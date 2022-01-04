@@ -1,6 +1,6 @@
 ---
 title: "Research on the diurnal cycle of deep convection over the Congo"
-excerpt: "In this project, I investigated how the diurnal timing and intensity of deep convection has shifted during the past 40 years, using GridSat-B1 and MODIS satellite and ERA5 reanalysis data. I further analyzed how the changes in the diurnal cycle of convection might be related to the drying trend observed over the region. <br/><img src='/images/Fig_10_new.png'>"
+excerpt: "For this research project, I investigated how the diurnal timing and intensity of deep convection has shifted during the past 40 years, using GridSat-B1 and MODIS satellite and ERA5 reanalysis data. I further analyzed how the changes in the diurnal cycle of convection might be related to the drying trend observed over the region. <br/><img src='/images/Fig_10_new.png'>"
 collection: portfolio
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Reseach about impacts of the MJO on the diurnal cycle of convection"
 excerpt: "For this work, I am analyzing how the MJO influences the diurnal timing and intensity of deep convection and precipitation over the Congo.
-<br/><img src='/images/Fig_MJO_Diurnal_Cycle_Tb.pdf'>"
+<br/><img src='/images/Fig_1_MJO_CCF_GDI_Precipitation.png'>"
 collection: portfolio
 ---
 

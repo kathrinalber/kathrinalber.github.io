@@ -12,4 +12,4 @@ The goal of this work is to simulate the effects of the drying-trend observed ov
 Project status
 ====
 
-This work is currently in progress (2021-).
+This work is currently in progress (2022-).

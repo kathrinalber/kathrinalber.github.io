@@ -8,10 +8,10 @@ Motivation
 ====
 
 This work aims to address a critical issue impacting the Congolese rainforest: the observed long-term drying trend and the increase in convective activity, from a diurnal perspective.
-To do so, I analyzed the causes and effects of a shift in the diurnal timing and intensity of deep convection over the Congo Basin. As large parts of the tropical cloudiness and rainfall can be explained by the diurnal cycle (Yang and Slingo 2001), 
+As large parts of the tropical cloudiness and rainfall can be explained by the diurnal cycle (Yang and Slingo 2001), 
 which is mainly controlled by surface heating, one important question is whether the long-term drying trend may has modified the diurnal cycle of clouds and deep convection over the Congo. 
 Identifying the diurnal changes in clouds and deep convection over the region promises to enhance our understanding of rainfall patterns and variability as well as associated thunderstorm activity and may thereby help to reconcile the observed inverse trends in deep convection and rainfall. 
-The goals of this study therefore are to analyze the diurnal cycle of deep convection over the Congo, to investigate its changes from 1979 to 2019, and to ultimately link the changes found in the diurnal cycle of deep convection to the observed decrease in precipitation.
+The goals of this study therefore are to analyze the diurnal cycle of deep convection over the Congo, to investigate its changes from 1979 to 2019, and to ultimately link the changes found in the diurnal cycle of deep convection to the observed decrease in precipitation. To do so, I analyzed the causes and effects of a shift in the diurnal timing and intensity of deep convection over the Congo Basin. 
 
 Project Status
 ====

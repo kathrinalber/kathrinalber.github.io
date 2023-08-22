@@ -12,4 +12,8 @@ This project aims to shed light on the yet unanswered question of how the MJO im
 Project Status
 ====
 
-This work is currently in progress (2021-).
+This work is finished and published.
+
+Publication
+====
+[Alber, K., Zhou, L., Roundy, P.E., Solimine, S.L., (2023). Influence of the Madden-Julian Oscillation on the diurnal cycles of convection and precipitation over the Congo Basin. Atmos. Res., 294, 0169-8095.](https://kathrinalber.github.io/publication/2023-08-22-paper-title-number-3)
